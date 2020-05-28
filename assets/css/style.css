@@ -68,8 +68,10 @@ ul li {
   margin-right: auto;
 }
 
-.logo_link {
+.logo-link a {
   float: right;
+  color: white;
+  
 }
 
 .logo {
