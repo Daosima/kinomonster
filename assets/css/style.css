@@ -68,6 +68,10 @@ ul li {
   margin-right: auto;
 }
 
+.logo_link {
+  float: right;
+}
+
 .logo {
   width: 880px;
   padding-bottom: 40px;
